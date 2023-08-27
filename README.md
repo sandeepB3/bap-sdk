@@ -6,21 +6,17 @@ A comprehensive NodeJS + React Native SDK, empowering developers to efficiently 
 
 ## Run Locally
 
-Clone the project
-
+**Clone the project**
 ```bash
   git clone https://github.com/sandeepB3/bap-sdk.git
 ```
 
-Open bap-sdk folder in your terminal and run
-
+**Open bap-sdk folder in your terminal and run**
 ```bash
   sudo npm install -g
 ```
-This ensure the sdk is installed globally in your device
 
-Open a new folder in which you want to create your project and run
-
+**Open a new folder in which you want to create your project and run**
 ```bash
   bap-sdk
 ```

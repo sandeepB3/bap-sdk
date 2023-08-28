@@ -16,13 +16,13 @@ interface Context {
 }
   
 const context: Context = {
-    domain: "nic2004:60221",               // Set the domain as per use case
+    domain: "",               // Set the domain as per use case
     country: "IND",       
     city: "std:080",
     action: "",
     core_version: "0.9.2",   // Set the version
-    bap_id: "sandeep-mobility",             // Set the registered BAP id
-    bap_uri: "https://sandeep-bap2.loca.lt",            // Set the registered BAP uri
+    bap_id: "",             // Set the registered BAP id
+    bap_uri: "",            // Set the registered BAP uri
     bpp_id: undefined,     // Optional field in some cases
     bpp_uri: undefined,    // Optional field in some cases
     transaction_id: "",

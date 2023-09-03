@@ -30,9 +30,6 @@ A comprehensive NodeJS + React Native SDK, empowering developers to efficiently 
 └── package.json
 ```
 
-## Project Architecture
-The workflow of the project goes as
-
 ## Run Locally
 
 **Clone the project**

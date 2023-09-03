@@ -8,7 +8,7 @@ A comprehensive NodeJS + React Native SDK, empowering developers to efficiently 
 - CLI based tool for initialisation 
 - Boilerplate UI Templates
 - Backend SDK Code
-- Search use case for 3 domains
+- Search use case for 2 domains
 - Sorting as per rating use case
 
 ## Tech Stack

@@ -24,7 +24,7 @@ A comprehensive NodeJS + React Native SDK, empowering developers to efficiently 
 ├── templates/
 │   ├── BAP-Education/   # Boilerplate for education
 │   ├── BAP-Mobility/    # Boilerplate for mobility
-│   └── BAP- Retail/     # Boilerplate for retail
+│   └── BAP-Retail/      # Boilerplate for retail
 ├── index.js             # sdk entry point for initialisation 
 ├── outputDirectory.js   # sdk output file
 └── package.json

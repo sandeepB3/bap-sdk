@@ -8,4 +8,4 @@ RUN npm install
 
 #Bundle app source 
 COPY . /app
-CMD npm install -g
+CMD ["node", "index.js"]
